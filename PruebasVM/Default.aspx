@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>ASP.NET</h1>
         <p class="lead">Prueba de proyecto con Bitbucket desde una VM</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Texto cambiado desde Bitbucket</a></p>
     </div>
 
     <div class="row">
